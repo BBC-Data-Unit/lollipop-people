@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/3E02/production/_104747851_lollipopdown-nc.png)
 
-In December 2018 we created some analysis and visualisation to support [a story on cuts to the number of lollipop men and women near schools](https://www.bbc.co.uk/news/uk-politics-46514670).
+In December 2018 we created some analysis and visualisation to support [a story by the BBC Political Research Unit's **Laurence Sleator** on cuts to the number of lollipop men and women near schools](https://www.bbc.co.uk/news/uk-politics-46514670).
 
 The number of them funded by councils in Great Britain has fallen by 1,500, almost a quarter, in five years, figures obtained by the BBC showed.
 
