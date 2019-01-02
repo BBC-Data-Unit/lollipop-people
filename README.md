@@ -10,6 +10,10 @@ The data for the story was obtained through the use of Freedom of Information re
 
 The BBC contacted every local authority with responsibility for lollipop people. Two thirds of councils (133) replied with comparable data, meaning the real loss of staff could be substantially higher.
 
+As this was not collected by the data unit, we cannot share it here.
+
+The piece was also [followed up for younger audiences by Newsround](https://www.bbc.co.uk/newsround/46604588) and [the Daily Mail used it too](https://www.dailymail.co.uk/news/article-6510225/Campaigners-warn-lives-risk-cash-strapped-councils-cut-1-500-lollipop-ladies.html), including a credit for the BBC.
+
 ## Quotes and interviews
 
 * Martin Tett, transport spokesman, Local Government Association
